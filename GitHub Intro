@@ -35,3 +35,29 @@ Sure, here are the key concepts explained in simple terms:
    - Collaborators are like team members who have access to work on a project together.
    - They're people who can contribute directly to the project by making changes or adding new stuff.
    - It's a way for multiple people to work together on the same project.
+
+
+
+Basic Workflow on GitHub:
+
+1. Fork a Repository:
+   - Make a copy of a project on GitHub to your own account.
+
+2. Clone to Your Computer:
+   - Download your copied project to your computer using a command called `git clone`.
+
+3. Make Changes:
+   - Edit files on your computer to make the changes you want.
+
+4. Save Changes Locally:
+   - Use `git add` to prepare your changes, then `git commit` to save them on your computer.
+
+5. Upload Changes to Your Copy:
+   - Use `git push` to send your saved changes back to your copy of the project on GitHub.
+
+6. Ask to Include Your Changes:
+   - On GitHub, request that the original project owner includes your changes by creating a "pull request".
+
+7. Wait for Review and Approval:
+   - The owner or others can review your changes on GitHub and decide whether to include them in the main project.
+
